@@ -1,5 +1,5 @@
 This repository is a place for you to learn Javascript (ECMASript2015 and above), and challenge your mentoring skills.
-By adhering to a culture of being helful to others, you will learn the foudations of the language at a much quicker pace than you would on your own.
+By adhering to a culture of being helpful to others, you will learn the foundations of the language at a much quicker pace than you would on your own.
 
 ## How it works
 
@@ -13,14 +13,14 @@ By adhering to a culture of being helful to others, you will learn the foudation
 Pull requests will be merged when the following applies:
 
 1. The code has an obvious pedagogic interest and demonstrates an inherent specificity of the Javascript/ECMAScript language
-- The code for the problem belong to one files named after the the problem at stake (e.g. `var_const_let.js`. When a problem with the name you want to give already exists, add a number before the extension name as in `var_const_let_1.js`. We use underscores `_` by convention.
+- The code for the problem belongs to one file named after the problem at stake (e.g. `var_const_let.js`. When a problem with the name you want to give already exists, add a number before the extension name as in `var_const_let_1.js`. We use underscores `_` by convention.
 - Your commit messages carry meaning, contain a verb, and no subject. Like so: `Add var_let_const_3 problem`
 - The source code for your problem is organised as follows (note: replace what's between  `<` and `>` as appropriate): 
 
     ```javascript
     /**
      * Topic: <Name the general topic you cover in this problem>
-     * Problem instructions: <Give general instructions here. You can then be add more specific comments *                        within the code examples>
+     * Problem instructions: <Give general instructions here. You can then add more specific comments *                        within the code examples>
      * Relevant resources:
      * - <link 1>
      * - <link 2>
@@ -39,7 +39,7 @@ Pull requests will be merged when the following applies:
      *
     --begin--
     < 
-      Here goes a base64-encrypted string of your solution (all problems). To encrypt a code sample use:
+      A base64-encrypted string of your solution (all problems) goes here. To encrypt a code sample use:
       echo "<code>" | base64
       and to decrypt:
       echo "base64-blob" | base64 -d 
